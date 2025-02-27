@@ -25,7 +25,7 @@ body {
 }
 
 .title-div /* add other elements that use this font */{
-    font-family: young-serif, arial, sans-serif;
+    font-family: young serif, arial, sans-serif;
 }
 
 
@@ -37,6 +37,7 @@ body {
     align-self: flex-start;
     margin-left: 15px;
     font-size: 15px;
+    font-weight: 400;
 }
     
     
