@@ -24,6 +24,15 @@ body {
     margin-bottom: 12px;
 }
 
+.title-div /* add other elements that use this font */{
+    font-family: young-serif, arial, sans-serif;
+}
+
+
+
+
+
+
 .title-div {
     align-self: flex-start;
     margin-left: 15px;
