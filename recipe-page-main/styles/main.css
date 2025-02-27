@@ -21,6 +21,13 @@ body {
 .omelette-div {
     width: 220px;
     margin-top: 15px;
+    margin-bottom: 12px;
+}
+
+.title-div {
+    align-self: flex-start;
+    margin-left: 15px;
+    font-size: 15px;
 }
     
     
