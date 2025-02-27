@@ -14,32 +14,40 @@ body {
     border: 2px solid black;
     border-radius: 8px;
 
-    width: 250px;
+    width: 280px;
     height: 600px;
 }    
 
 .omelette-div {
-    width: 220px;
+    width: 250px;
     margin-top: 15px;
     margin-bottom: 12px;
 }
 
-.title-div /* add other elements that use this font */{
+.title-div /* add other elements that use this font family */ 
+ {
     font-family: young serif, arial, sans-serif;
+    font-weight: 400;
 }
 
-
-
-
-
+ /* add other elements that use this font family */ {}
+    {
+    font-family: outfit, arial, sans-serif;
+}
 
 .title-div {
     align-self: flex-start;
     margin-left: 15px;
     font-size: 15px;
-    font-weight: 400;
+    margin-bottom: 6px;
 }
     
+.description {
+    font-family: Outfit, arial, sans-serif;
+    font-size: 6.5px;
+    margin-left: 10px;
+    color: hsl(30, 10%, 34%);
+}
     
     
     
