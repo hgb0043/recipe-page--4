@@ -1,0 +1,37 @@
+.title-section,  
+.ingredients-header,
+.instructions-header
+    {
+    font-family: young serif, arial, sans-serif;
+    font-weight: 400;
+}
+
+.description,
+.preparation-time-header,
+.preparation-time-text,
+.ingredients-section,
+.instructions-list
+    {
+    font-family: outfit, arial, sans-serif;
+}
+
+.preparation-time-text,
+.ingredients-list,
+.instructions-list 
+    {
+    color: #5f574e;
+}
+
+.preparation-time-header,
+.ingredients-header,
+.instructions-header,
+ul li::marker,
+ol li::marker
+    {
+    color: hsl(332, 51%, 32%);
+}
+
+ul li::marker,
+ol li::marker {
+    font-weight: 600;
+    }
