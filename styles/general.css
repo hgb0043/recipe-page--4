@@ -1,0 +1,57 @@
+.title-section,  
+.ingredients-header,
+.instructions-header,
+.nutrition-header
+    {
+    font-family: young serif, arial, sans-serif;
+    font-weight: 400;
+}
+
+.description,
+.preparation-time-header,
+.preparation-time-text,
+.ingredients-section,
+.instructions-list,
+.nutrition-description,
+.nutrient-type,
+.value
+    {
+    font-family: outfit, arial, sans-serif;
+}
+
+.preparation-time-text,
+.ingredients-list,
+.instructions-list 
+    {
+    color: #5f574e;
+}
+
+.preparation-time-header,
+.ingredients-header,
+.instructions-header,
+.nutrition-header,
+.value,
+ul li::marker,
+ol li::marker
+    {
+    color: hsl(332, 51%, 32%);
+}
+
+ul li::marker,
+ol li::marker, 
+.value
+{
+    font-weight: 600;
+    }
+
+.nutrient-type,
+.value {
+    font-size: 8px;
+    margin-bottom: 8px;
+    box-shadow: 0 1px 0.08px rgba(100,100,100,0.2);
+}
+
+#carbs,
+#carb-count {
+    box-shadow: 0 1px 0.08px rgba(100,100,100,0.4);
+}
